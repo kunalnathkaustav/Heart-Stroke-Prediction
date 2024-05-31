@@ -67,28 +67,7 @@ Techniques such as SMOTE (Synthetic Minority Over-sampling Technique) to address
 ### Cross-Validation
 Implementation of cross-validation to evaluate model performance. This helps in assessing the model's generalizability and robustness by testing it on multiple subsets of the data.
 
-## Installation and Usage
 
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Open the Jupyter notebook:
-    ```bash
-    jupyter notebook Final\ ML.ipynb
-    ```
-
-## Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes. Whether it's improving documentation, adding new features, or fixing bugs, your help is appreciated.
 
